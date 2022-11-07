@@ -4,7 +4,7 @@ Design and Analysis of Computer Networks
 
 ```
 
-    Total Views per Day from 2022-10-14 to 2022-11-06
+    Total Views per Day from 2022-10-14 to 2022-11-07
 
     Repository Views
    16.00  ┼    ╭╮
@@ -22,8 +22,8 @@ Design and Analysis of Computer Networks
     3.20  ┤│   ││      ││
     2.13  ┤│   ││      ││
     1.07  ┤│   ││╭╮    ││
-    0.00  ┤╰───╯╰╯╰────╯╰─────────
+    0.00  ┤╰───╯╰╯╰────╯╰──────────
 
-    Chart last updated - Sun Nov  6 00:44:27 2022 UTC
+    Chart last updated - Mon Nov  7 00:41:54 2022 UTC
     
 ```
