@@ -1,7 +1,6 @@
 # COMP 5320
-COMP 5320 Labs and Homework 
-Design and Analysis of Computer Networks
-
+- Design and Analysis of Computer Networks Labs and Homework
+- DISCLAIMER: By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
 ```
 
         Total Views per Day from 2022-10-14 to 2022-12-15
