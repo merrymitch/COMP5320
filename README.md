@@ -4,11 +4,11 @@ Design and Analysis of Computer Networks
 
 ```
 
-        Total Views per Day from 2023-05-19 to 2023-08-16
+        Total Views per Day from 2023-05-20 to 2023-08-17
 
         Repository Views
        0 ┼─────────────────────────────────────────────────────────────────────────────────────────
 
-        Chart last updated - Wed Aug 16 00:29:47 2023 UTC
+        Chart last updated - Thu Aug 17 00:29:28 2023 UTC
         
 ```
